@@ -18,9 +18,10 @@ mail: josh@joshhawthorne.com
 description: >- # this means to ignore newlines until "baseurl:"
   aka Thorn Hawchorn
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://joshhawthorne.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://joshhawthorne.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: joshhawthorne
 github_username:  joshhawthorne
+facebook_username:  joshhawthorne
 
 # Build settings
 markdown: kramdown
