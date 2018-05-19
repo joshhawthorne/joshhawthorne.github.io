@@ -1,0 +1,12 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+#forkme_banner { display: none; }
+#header_wrap { 
+    background-image: url('/assets/img/wheat.jpg');
+    background-repeat: repeat-x;
+    background-position: center;
+    height: 209px;
+}
