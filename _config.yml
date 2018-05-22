@@ -16,14 +16,24 @@
 title: Josh Hawthorne
 email: josh@joshhawthorne.com
 description: >- # this means to ignore newlines until "baseurl:"
-  aka Thorn Hawchorn
+  A blog about all the flavors of Josh Hawthorne aka Thorn Hawchorn
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://joshhawthorne.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: joshhawthorne
 github_username:  joshhawthorne
 repository: joshhawthorne/joshhawthorne.github.io
 show_downloads: false
 google_analytics: UA-119540078-1 
+social:
+    name: Josh Hawthorne
+    links:
+        - https://twitter.com/joshhawthorne
+        - https://www.facebook.com/joshhawthorne
+        - https://www.linkedin.com/in/joshhawthorne
+        - https://plus.google.com/+JoshHawthorne77
+        - https://youtube.com/c/JoshHawthorne77
+        - https://github.com/joshhawthorne
+        - https://keybase.io/joshhawthorne
 
 # Build settings
 markdown: kramdown
@@ -31,6 +41,7 @@ markdown: kramdown
 theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
