@@ -12,12 +12,12 @@ categories: garden update
 
 So in going through the garden a bit yesterday afternoon, I noticed that our gnomes have returned again this year!
 
-![Gnome Smoking Pipe](/assets/img/gnome-pipe_25.jpg)
+![Gnome Smoking Pipe](/images/posts/2018-05-19/gnome-pipe_25.jpg)
 
-![Gnome Climbing](/assets/img/gnome-climber_25.jpg)
+![Gnome Climbing](/images/posts/2018-05-19/gnome-climber_25.jpg)
 
 What's even better is they brought friends. Makes me think they are pretty happy with our garden.
 
-![Gnome on Laptop](/assets/img/gnome-laptop_25.jpg)
+![Gnome on Laptop](/images/posts/2018-05-19/gnome-laptop_25.jpg)
 
-![Gnome Meditating](/assets/img/gnome-meditate_25.jpg)
+![Gnome Meditating](/images/posts/2018-05-19/gnome-meditate_25.jpg)
