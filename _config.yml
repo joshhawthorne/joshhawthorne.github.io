@@ -36,6 +36,8 @@ social:
         - https://keybase.io/joshhawthorne
 
 # Build settings
+future: false
+show_drafs: false
 markdown: kramdown
 #theme: minima
 theme: jekyll-theme-slate
