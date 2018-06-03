@@ -12,5 +12,5 @@ categories: garden update trelis cucumbers
 
 So the cucumbers are really going crazy now. I think they responded well to the fertilizer (fish emulsion) I put down on Friday. Almost overnight they were ready for the trelis. So what the cucumbers want, the cucumbers get.
 
-![Trelis With Cucumbers](/images/posts/2018-05-29/trelis-with-cucumbers.jpg)
+![Trelis With Cucumbers](/images/posts/2018-05-29/trelis.jpg)
 
